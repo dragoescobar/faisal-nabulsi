@@ -4,7 +4,6 @@ I graduated from al-ahliyya amman university as cybersecurity and networking</br
 i created a platform named PortBreaker which can scan vulnerabilities and exploits them</b>
 i also created an app .apk that uploads files</b>
 now looking for a job :(</b>
-my linkden https://www.linkedin.com/in/faisal-al-nabulsi-624ba331b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app</b>
 
 
 
